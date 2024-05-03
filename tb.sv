@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Er. Arpit Paul
 // 
 // Create Date: 03.05.2024 17:52:11
 // Design Name: 
